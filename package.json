@@ -1,0 +1,21 @@
+{
+  "name": "weir",
+  "version": "1.0.0",
+  "description": "Smooth streaming text for LLM chat UIs: rAF-paced emission, append-only DOM writes, optional per-character fade-in. No dependencies.",
+  "main": "src/weir.js",
+  "exports": {
+    ".": "./src/weir.js",
+    "./lite": "./src/weir-lite.js"
+  },
+  "files": ["src", "README.md", "README.zh.md", "LICENSE"],
+  "scripts": {
+    "test": "node test/weir.test.js"
+  },
+  "keywords": [
+    "streaming", "llm", "chat", "typewriter", "requestAnimationFrame",
+    "performance", "dom", "fade-in", "sse", "websocket"
+  ],
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/VII-Cae/weir-smoothstreaming.git" },
+  "sideEffects": false
+}
