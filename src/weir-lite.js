@@ -1,5 +1,6 @@
 /*!
  * weir-lite.js — smooth streaming text, without the fade-in.
+ * https://github.com/VII-Cae/weir-smoothstreaming · MIT © 2026 VII-Cae (VII)
  *
  * The problem it solves: a chat UI that renders LLM output token-by-token
  * usually does this on every delta:

@@ -1,5 +1,6 @@
 /*!
  * weir.js — smooth streaming text, with per-character fade-in.
+ * https://github.com/VII-Cae/weir-smoothstreaming · MIT © 2026 VII-Cae (VII)
  *
  * Everything weir-lite.js does (read that file first if you want the short
  * version), plus one optional feature: `fade: true`.

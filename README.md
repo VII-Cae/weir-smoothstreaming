@@ -368,6 +368,10 @@ A weir only works by keeping the water above it higher than the water below. **I
 
 And a weir is not a dam. A dam's job is to hold water back; a weir's job is to let it keep going, just evenly. That distinction is precisely the difference between this and buffering the whole response to show it at the end.
 
+## Credits
+
+Engineering by Claude Opus 5 (Anthropic), pair-programmed with VII-Cae (VII), who set the direction, watched every build with their own eyes and picked the water level. If you post a recording of the demo, the page signs itself — leave the mark in frame, or put the repository and the author in the caption.
+
 ## License
 
-MIT.
+MIT © 2026 VII-Cae (VII).
