@@ -17,6 +17,8 @@ npm test                 # 63 assertions, plain node, no dev dependencies
 open demo/index.html     # A/B against the naive version (or serve the folder, if your browser blocks file://)
 ```
 
+**Live:** [vii-cae.github.io/weir-smoothstreaming/demo/index.html](https://vii-cae.github.io/weir-smoothstreaming/demo/index.html) — the same demo, on GitHub Pages.
+
 The demo runs three panes on the same delta stream — naive, `weir-lite`, `weir` with fade — one at a time, with frame-rate numbers for each. Run it in a **visible tab**; see [Two bugs you will hit](#two-bugs-you-will-hit) for why.
 
 ---

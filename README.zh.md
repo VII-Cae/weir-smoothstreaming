@@ -17,6 +17,8 @@ npm test                 # 63 项断言，纯 node，无开发依赖
 open demo/index.html     # 和朴素写法并排对比（浏览器若拦 file://，起个静态服务器即可）
 ```
 
+**在线版：** [vii-cae.github.io/weir-smoothstreaming/demo/index.html](https://vii-cae.github.io/weir-smoothstreaming/demo/index.html)——同一个 demo，挂在 GitHub Pages 上。
+
 demo 用同一串 delta 依次跑三块：朴素写法、`weir-lite`、带淡入的 `weir`，各自记帧率。请在**可见的标签页**里跑，原因见[两个一定会踩的坑](#两个一定会踩的坑)。
 
 ---
